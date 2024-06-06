@@ -1,4 +1,4 @@
-const Filter = ({ onFilterChange, onClear }) => {
+const Filter = ({ onFilterChange }) => {
   return (
     <div className="filter">
       <input
